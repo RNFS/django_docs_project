@@ -1,2 +1,1 @@
-# test
-# test
+this project is just for learning django by practicing 
